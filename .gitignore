@@ -1,0 +1,7 @@
+# Local secrets (for example: OPENAI_API_KEY in a .env file)
+.env
+.env.*
+!.env.example
+
+# Local Jupyter runtime files
+Publicis_Sapient/.jupyter-test/
